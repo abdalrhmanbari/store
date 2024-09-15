@@ -71,8 +71,8 @@ export default function CardId({
 
         {/* Image gallery */}
         <div className="   sm:px-6 l lg:px-8  mt-[4rem]">
-          <div className="  mt-[2rem]   flex flex-col md:flex-row items-center justify-between  md:items-start md:justify-between gap-[2rem]">
-            <div className=" ms-0  w-xs sm:w-xl md:2xl    max-h-[36rem] aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
+          <div className="  mt-[2rem]   flex flex-col md:flex-row items-center justify-between  md:items-start md:justify-between gap-[4rem]">
+            <div className=" ms-0  max-w-xs sm:max-w-lg md:max-w-xl  max-h-[40rem]   aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
               <Image
                 src={image}
                 alt={title}
@@ -84,7 +84,7 @@ export default function CardId({
             </div>
 
             {/* Product info */}
-            <div className="  max-w-xs sm:max-w-lg     sm:mt-0 sm:px-6   lg:gap-x-8   ">
+            <div className="  max-w-xs sm:max-w-md md:max-w-sm lg:max-w-lg      sm:px-6   lg:gap-x-8   ">
               <div className=" flex justify-between items-center">
                 <div className="lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
                   <h1 className="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">

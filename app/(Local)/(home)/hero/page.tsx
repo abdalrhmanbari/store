@@ -28,18 +28,18 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
-              alt=""
+              src="/pexels-chloekalaartist-1043474.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
-              priority
+              
             />{" "}
           </div>
           <div className="h-64 w-44 overflow-hidden rounded-lg">
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
-              alt=""
+              src="/pexels-dejan-krstevski-724759-1578997.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
             />
@@ -50,8 +50,8 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
-              alt=""
+              src="/pexels-enginakyurt-1642228.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
             />
@@ -60,8 +60,8 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
-              alt=""
+              src="/pexels-godisable-jacob-226636-914668.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
             />
@@ -70,8 +70,8 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
-              alt=""
+              src="/pexels-pixabay-157675.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
             />
@@ -82,8 +82,8 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
-              alt=""
+              src="/pexels-hazardos-1306246.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center "
               priority
             />
@@ -92,8 +92,8 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
-              alt=""
+              src="/pexels-ollivves-1103828.jpg"
+              alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
             />

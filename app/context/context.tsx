@@ -78,6 +78,26 @@ export const women = [
     image:
       "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGZhc2hpb24lMjB3b21lbnxlbnwwfHwwfHx8Mg%3D%3D",
   },
+  {
+    id:5,
+    title: "pink dress",
+    price: 40,
+    image:
+"/pexels-godisable-jacob-226636-914668.jpg"  
+},
+  {
+    id:6,
+    title: "pink dress",
+    price: 40,
+    image:
+"/pexels-enginakyurt-1642228.jpg"
+},
+  {
+    id:7,
+    title: "pink dress",
+    price: 40,
+    image:
+"/pexels-dejan-krstevski-724759-1578997.jpg"},
 ];
 export const men = [
   {
@@ -114,6 +134,24 @@ export const men = [
     price: 19,
     image:
       "https://images.unsplash.com/photo-1606913852449-8ebf553565cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZhc2hpb24lMjBtYW58ZW58MHx8MHx8fDA%3D",
+  },
+  {
+    id:6,
+    title: "Men Full Sleeve Printed Hooded Sweatshirt",
+    price: 19,
+    image:"/pexels-chloekalaartist-1043474.jpg"
+  },
+  {
+    id:7,
+    title: "Men Full Sleeve Printed Hooded Sweatshirt",
+    price: 19,
+    image:"/pexels-pixabay-157675.jpg"
+  },
+  {
+    id:8,
+    title: "Men Full Sleeve Printed Hooded Sweatshirt",
+    price: 19,
+    image:"/pexels-ollivves-1103828.jpg"
   },
 ];
 export const kids = [

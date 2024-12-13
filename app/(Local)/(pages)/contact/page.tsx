@@ -23,7 +23,7 @@ export default function Contact() {
         <div>
           <span className=' inline-block p-3 text-gray-500 rounded-full bg-gray-100/80'><Phone/></span>
           <h2 className='mt-4 text-base font-medium text-gray-800'>Phone</h2>
-          <p className=' text-gray-500 text-sm mt-2'>+96339176488</p>
+          <p className=' text-gray-500 text-sm mt-2'>+963939176488</p>
         </div>
         <div>
           <span className=' inline-block p-3 text-gray-500 rounded-full bg-gray-100/80'><Location/></span>

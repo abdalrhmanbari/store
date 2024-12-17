@@ -70,17 +70,17 @@ export default function Collection() {
         </div>
         <Link
           href={"/women"}
-          className=" relative   h-[46rem]   bg-[#FFF]  hover:opacity-75  overflow-hidden rounded-md duration-300 ease-linear " 
+          className=" m-auto relative  h-[22rem] w-[20rem] sm:w-full  sm:h-[46rem]   bg-[#FFF]  hover:opacity-75  overflow-hidden rounded-md duration-300 ease-linear " 
         >
           <Image
-            className=" w-full h-full bg-contain  "
+            className=" w-full h-full bg-cover  "
             priority
             src={
               "https://images.unsplash.com/photo-1717724169519-ca95e7e6862c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZmFzaGlvbiUyMHdvbWVufGVufDB8fDB8fHwy"
             }
             alt=".."
-            width={500}
-            height={400}
+            width={300}
+            height={200}
           />
 
           <div className=" absolute inset-0 flex flex-col items-start justify-end p-6">

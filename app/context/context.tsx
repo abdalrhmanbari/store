@@ -78,22 +78,16 @@ export const women = [
     image:
       "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGZhc2hpb24lMjB3b21lbnxlbnwwfHwwfHx8Mg%3D%3D",
   },
+
   {
     id:5,
-    title: "pink dress",
-    price: 40,
-    image:
-"/pexels-godisable-jacob-226636-914668.jpg"  
-},
-  {
-    id:6,
     title: "pink dress",
     price: 40,
     image:
 "/pexels-enginakyurt-1642228.jpg"
 },
   {
-    id:7,
+    id:6,
     title: "pink dress",
     price: 40,
     image:

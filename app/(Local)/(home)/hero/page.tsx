@@ -60,7 +60,7 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="/pexels-hazardos-1306246.jpg"
+              src="/pexels-ketut-subiyanto-4247722.jpg"
               alt="clothes"
               className="h-full w-full object-cover object-center"
               priority
@@ -82,7 +82,7 @@ export default function Hero() {
             <Image
               width={300}
               height={300}
-              src="/pexels-godisable-jacob-226636-914668.jpg"
+              src="/pexels-hazardos-1306246.jpg"
 
               alt="clothes"
               className="h-full w-full object-cover object-center "

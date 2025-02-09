@@ -7,7 +7,7 @@ import Card from "@/app/Components/component/card";
 import CustomButton from "@/app/Components/button/custom-button";
 
 export default async function Product() {
-  const Women = await women;
+  const Women = await women.slice(0,4);
   return (
     <section>
       <h1 className="text-3xl font-bold text-center my-[4rem] ">
